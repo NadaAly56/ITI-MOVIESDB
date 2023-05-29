@@ -1,0 +1,9 @@
+section {
+    width: 100%;
+}
+
+@media (min-width: 1536px) {
+    .css-1ss2ei0-MuiContainer-root {
+        max-width: 1536px !important;
+    }
+}

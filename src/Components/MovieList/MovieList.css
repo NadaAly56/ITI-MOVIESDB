@@ -1,0 +1,25 @@
+.img-height {
+    height: 80% !important;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    width: 100% !important;
+    object-fit: fill !important;
+}
+.button-update {
+    background-color: #424242 !important;
+    color:#fff !important;
+}
+.d-Button:hover {
+    background-color:#ac191950 !important;
+}
+.d-Button-Custom {
+    color:#fff !important;
+    margin: 2%!important;
+    padding: 4% 6% !important;
+    border-radius: 30px !important;
+    font-size: 25px !important;
+}
+.d-button-active {
+    background-color: #ac1a19 !important;
+    color:#fff !important;
+}
